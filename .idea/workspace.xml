@@ -64,24 +64,10 @@
       <file leaf-file-name="tool.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="133" column="16" lean-forward="true" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+            <state relative-caret-position="448">
+              <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-01_三分归晋.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/min_photos/2017-03-01_三分归晋.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-01_岁月神偷.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/min_photos/2017-03-01_岁月神偷.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -217,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510705829148</updated>
       <workItem from="1510705830963" duration="3437000" />
-      <workItem from="1510738301079" duration="2546000" />
+      <workItem from="1510738301079" duration="2948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5983000" />
+    <option name="totallyTimeSpent" value="6385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -373,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="133" column="16" lean-forward="true" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+        <state relative-caret-position="448">
+          <caret line="130" column="23" lean-forward="false" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
           <folding />
         </state>
       </provider>
